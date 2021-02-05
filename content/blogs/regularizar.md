@@ -1,11 +1,11 @@
 ---
 title: "Regularizacíon"
 description: "Saneamiento de títulos"
-slug: "regularizacion"
+slug: "regularizar"
 image:
 keywords: "regularizacion"
 date: 2021-02-02T18:12:19-03:00
-draft: false
+draft: true
 ---
 
 ### Regularización de Títulos de Dominio en Propiedad Particular ###

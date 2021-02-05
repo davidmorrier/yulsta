@@ -56,8 +56,8 @@ disqusShortname = ""
      # url = "blogs/ipsum"
 
     [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
+      name = "Sobre Nosotros"
+      url = "blogs/nosotros"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -110,7 +110,7 @@ disqusShortname = ""
       url = "blogs/arquitectura"
 
    # [[params.tiles.showcase]]
-    #  title = "Ipsum"
+    #  title = "Nosotros"
     #  subtitle = "Nisl Sed Aliquam"
     #  image = "pic04.jpg"
     #  url = "blogs/ipsum"
@@ -143,15 +143,15 @@ disqusShortname = ""
     
 
     Yulsta Ltda. cuenta con un equipo profesional con experiencia y dedicado a prestar un servicio de calidad orientado a los beneficiarios del proceso de saneamiento de títulos. La empresa tiene su casa matriz en la Región Metropolitana y cuenta con oficinas en las regiones del Libertador General Bernardo O`Higgins , Valparaíso,  Coquimbo, Del Maule, Ñuble, Los Ríos y Los Lagos."""
-    buttonText = "Servicios"
-    url = "blogs"
+    buttonText = "Quienes Somos"
+    url = "blogs/nosotros"
 
 
   # Contact section
   [params.contact]
     enable = true
-    buttonSend = "Send message"
-    buttonClear = "Clear"
+    buttonSend = "Enviar mensaje"
+    buttonClear = "Borrar"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -171,17 +171,17 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "andrea@yulsta.com"
+    email = "davidmorrier@gmail.com"
 
     [[params.contact.phone]]
-    title = "Telefono"
+    title = "Teléfono"
     phone = "+56979184007"
 
     [[params.contact.address]]
     title = "Direccion"
     street = "Almirante Barroso 821-A"
     city = "Santiago, RM"
-    country = "Chle"
+    country = "Chile"
 
   # Footer section
   [params.footer]
@@ -216,5 +216,5 @@ disqusShortname = ""
 
     [[params.footer.quicklinks]]
       text = "Design: "
-      url= "https://www.html5up.net"
-      alt = "HTML5 UP"
+      url= "https://www.yulsta.com"
+      alt = "David Morrier"
