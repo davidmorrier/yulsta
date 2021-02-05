@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "http://yulsta.com/"
+baseURL = "/"
 languageCode = "es-cl"
-title = "Forty"
+title = "Yulsta"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -48,7 +48,7 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
+      name = "Servicios"
       url = "blogs"
 
     # [[params.navigation.links]]
@@ -143,7 +143,7 @@ disqusShortname = ""
     
 
     Yulsta Ltda. cuenta con un equipo profesional con experiencia y dedicado a prestar un servicio de calidad orientado a los beneficiarios del proceso de saneamiento de títulos. La empresa tiene su casa matriz en la Región Metropolitana y cuenta con oficinas en las regiones del Libertador General Bernardo O`Higgins , Valparaíso,  Coquimbo, Del Maule, Ñuble, Los Ríos y Los Lagos."""
-    buttonText = "Get Started"
+    buttonText = "Servicios"
     url = "blogs"
 
 

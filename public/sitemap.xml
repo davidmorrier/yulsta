@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://yulsta.com/blogs/</loc>
+    <loc>/blogs/</loc>
     <lastmod>2021-02-02T18:12:19-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yulsta.com/</loc>
+    <loc>/blogs/regularizac%C3%ADon/</loc>
     <lastmod>2021-02-02T18:12:19-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yulsta.com/blogs/regularizac%C3%ADon/</loc>
+    <loc>/</loc>
     <lastmod>2021-02-02T18:12:19-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yulsta.com/blogs/topografia/</loc>
+    <loc>/blogs/topografia/</loc>
     <lastmod>2021-02-02T18:12:03-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yulsta.com/blogs/arquitectura/</loc>
+    <loc>/blogs/arquitectura/</loc>
     <lastmod>2021-02-02T18:11:36-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yulsta.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://yulsta.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
